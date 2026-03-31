@@ -1,0 +1,297 @@
+[
+  {
+    "name": "Registered Nurse",
+    "slug": "registered_nurse",
+    "count": 394068
+  },
+  {
+    "name": "Medical Doctor",
+    "slug": "medical_doctor",
+    "count": 87312
+  },
+  {
+    "name": "Registered Pharmacy Technician",
+    "slug": "registered_pharmacy_technician",
+    "count": 56545
+  },
+  {
+    "name": "Pharmacist",
+    "slug": "pharmacist",
+    "count": 36148
+  },
+  {
+    "name": "Massage Therapist",
+    "slug": "massage_therapist",
+    "count": 35611
+  },
+  {
+    "name": "Radiologic Technology",
+    "slug": "radiologic_technology",
+    "count": 31291
+  },
+  {
+    "name": "Licensed Mental Health Counselor",
+    "slug": "licensed_mental_health_counselor",
+    "count": 20825
+  },
+  {
+    "name": "Physical Therapist",
+    "slug": "physical_therapist",
+    "count": 20811
+  },
+  {
+    "name": "Dental Hygienist",
+    "slug": "dental_hygienist",
+    "count": 18125
+  },
+  {
+    "name": "Dental",
+    "slug": "dental",
+    "count": 17525
+  },
+  {
+    "name": "Physical Therapist Assistant",
+    "slug": "physical_therapist_assistant",
+    "count": 12488
+  },
+  {
+    "name": "Registered Respiratory Therapist",
+    "slug": "registered_respiratory_therapist",
+    "count": 11896
+  },
+  {
+    "name": "Medical Doctor Out-of-State Telehealth Provider",
+    "slug": "medical_doctor_out_of_state_telehealth_provider",
+    "count": 7896
+  },
+  {
+    "name": "Chiropractic Physician",
+    "slug": "chiropractic_physician",
+    "count": 7789
+  },
+  {
+    "name": "Dietetics/Nutritionist",
+    "slug": "dietetics_nutritionist",
+    "count": 7631
+  },
+  {
+    "name": "Psychologist",
+    "slug": "psychologist",
+    "count": 7375
+  },
+  {
+    "name": "Licensed Mental Health Counselor Out-of-State Telehealth",
+    "slug": "licensed_mental_health_counselor_out_of_state_telehealth",
+    "count": 7252
+  },
+  {
+    "name": "Optician",
+    "slug": "optician",
+    "count": 4082
+  },
+  {
+    "name": "Optometrist",
+    "slug": "optometrist",
+    "count": 4071
+  },
+  {
+    "name": "Electrologist",
+    "slug": "electrologist",
+    "count": 3609
+  },
+  {
+    "name": "Athletic Trainer",
+    "slug": "athletic_trainer",
+    "count": 3097
+  },
+  {
+    "name": "Psychologist Out-of-State Telehealth",
+    "slug": "psychologist_out_of_state_telehealth",
+    "count": 3038
+  },
+  {
+    "name": "Dietetics/Nutritionist Out-of-State Telehealth",
+    "slug": "dietetics_nutritionist_out_of_state_telehealth",
+    "count": 2406
+  },
+  {
+    "name": "Acupuncturist",
+    "slug": "acupuncturist",
+    "count": 2385
+  },
+  {
+    "name": "Certified Respiratory Therapist",
+    "slug": "certified_respiratory_therapist",
+    "count": 2317
+  },
+  {
+    "name": "Podiatric Physician",
+    "slug": "podiatric_physician",
+    "count": 1933
+  },
+  {
+    "name": "Audiologist",
+    "slug": "audiologist",
+    "count": 1431
+  },
+  {
+    "name": "School Psychologist",
+    "slug": "school_psychologist",
+    "count": 1129
+  },
+  {
+    "name": "Medical Doctor- Temporary Area of Critical Need",
+    "slug": "medical_doctor_temporary_area_of_critical_need",
+    "count": 1100
+  },
+  {
+    "name": "Anesthesiologist Assistants",
+    "slug": "anesthesiologist_assistants",
+    "count": 1017
+  },
+  {
+    "name": "Physical Therapist Out-of-State Telehealth",
+    "slug": "physical_therapist_out_of_state_telehealth",
+    "count": 547
+  },
+  {
+    "name": "Optometrist Out-of-State Telehealth Provider",
+    "slug": "optometrist_out_of_state_telehealth_provider",
+    "count": 299
+  },
+  {
+    "name": "Prosthetist-Orthotist",
+    "slug": "prosthetist_orthotist",
+    "count": 274
+  },
+  {
+    "name": "Dental Teaching Permits",
+    "slug": "dental_teaching_permits",
+    "count": 255
+  },
+  {
+    "name": "Audiology Assistant",
+    "slug": "audiology_assistant",
+    "count": 153
+  },
+  {
+    "name": "Registered Nurse Out-of-State Telehealth Provider",
+    "slug": "registered_nurse_out_of_state_telehealth_provider",
+    "count": 129
+  },
+  {
+    "name": "Medical Faculty Certificate",
+    "slug": "medical_faculty_certificate",
+    "count": 101
+  },
+  {
+    "name": "Orthotist",
+    "slug": "orthotist",
+    "count": 66
+  },
+  {
+    "name": "Prosthetist",
+    "slug": "prosthetist",
+    "count": 61
+  },
+  {
+    "name": "Radiologist Assistant",
+    "slug": "radiologist_assistant",
+    "count": 53
+  },
+  {
+    "name": "Dental Out-of-State Telehealth",
+    "slug": "dental_out_of_state_telehealth",
+    "count": 52
+  },
+  {
+    "name": "Chiropractic Physician Out-of-State Telehealth Provider",
+    "slug": "chiropractic_physician_out_of_state_telehealth_provider",
+    "count": 50
+  },
+  {
+    "name": "Dental-Health Access Dental",
+    "slug": "dental_health_access_dental",
+    "count": 34
+  },
+  {
+    "name": "Medical Health Physicist",
+    "slug": "medical_health_physicist",
+    "count": 33
+  },
+  {
+    "name": "Pharmacist Out-of-State Telehealth Provider",
+    "slug": "pharmacist_out_of_state_telehealth_provider",
+    "count": 31
+  },
+  {
+    "name": "Dental Radiographer",
+    "slug": "dental_radiographer",
+    "count": 25
+  },
+  {
+    "name": "Audiologist Out-of-State Telehealth",
+    "slug": "audiologist_out_of_state_telehealth",
+    "count": 24
+  },
+  {
+    "name": "Athletic Trainer Out-of-State Telehealth",
+    "slug": "athletic_trainer_out_of_state_telehealth",
+    "count": 22
+  },
+  {
+    "name": "Acupuncturist Out-of-State Telehealth",
+    "slug": "acupuncturist_out_of_state_telehealth",
+    "count": 18
+  },
+  {
+    "name": "Mental Health Counselor Limited License",
+    "slug": "mental_health_counselor_limited_license",
+    "count": 18
+  },
+  {
+    "name": "Orthotic-Prosthetic Resident",
+    "slug": "orthotic_prosthetic_resident",
+    "count": 18
+  },
+  {
+    "name": "Dental Temporary Certificate",
+    "slug": "dental_temporary_certificate",
+    "count": 17
+  },
+  {
+    "name": "Registered Respiratory Therapist Out-of-State Telehealth",
+    "slug": "registered_respiratory_therapist_out_of_state_telehealth",
+    "count": 17
+  },
+  {
+    "name": "Podiatric Physician Out-of-State Telehealth Provider",
+    "slug": "podiatric_physician_out_of_state_telehealth_provider",
+    "count": 11
+  },
+  {
+    "name": "Physical Therapist Assistant Out-of-State Telehealth",
+    "slug": "physical_therapist_assistant_out_of_state_telehealth",
+    "count": 10
+  },
+  {
+    "name": "Pharmacist Intern",
+    "slug": "pharmacist_intern",
+    "count": 8
+  },
+  {
+    "name": "School Psychologist Out-of-State Telehealth",
+    "slug": "school_psychologist_out_of_state_telehealth",
+    "count": 5
+  },
+  {
+    "name": "Pharmacy",
+    "slug": "pharmacy",
+    "count": 1
+  },
+  {
+    "name": "Prosthetist Out-of-State Telehealth Provider",
+    "slug": "prosthetist_out_of_state_telehealth_provider",
+    "count": 1
+  }
+]
